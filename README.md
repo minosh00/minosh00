@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minoshimantha00@gmail.com**
 
-- ⚡ Fun fact **Do not let anyone to stop you from being the best person you can be ❤️👨‍💻**
+- ⚡  **Do not let anyone to stop you from being the best person you can be ❤️👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
