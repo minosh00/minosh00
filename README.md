@@ -11,7 +11,7 @@
 
 I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Software Engineering***_ 🎓 from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">Sri Lanka Institute of Information Technology</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
 
-<img align="right" height="200" width="200" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/daftpunktocat-guy.gif" />
+<img align="right" height="200" width="200" alt="GIF" src="https://github.com/minosh00/minosh00/blob/main/images/daftpunktocat-guy.gif" />
 
 ### ⚡ Know more about me ⚡  
 - 🔭 I’m currently working on Developer.
@@ -27,13 +27,13 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
 <div align="center">  
   
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paradocx96&theme=dark&hide_border=true)](https://github.com/minosh00/minosh00)  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minosh00&theme=dark&hide_border=true)](https://github.com/minosh00/minosh00)  
   
 <details> 
   <summary>💻 GitHub Monthly Activity Graph</summary>  
   <br/>  
   
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paradocx96&theme=redical)](https://github.com/minosh00/minosh00)  
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=minosh00&theme=redical)](https://github.com/minosh00/minosh00)  
   
 </details>  
   
@@ -44,7 +44,7 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
       <img alt="minosh00's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="minosh00's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paradocx96&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="minosh00's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minosh00&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -54,7 +54,7 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
   <summary>💻 GitHub Wakatime Stats</summary>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@minosh00&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
   
   [_Wakatime stats since Feb-17-2021_](https://wakatime.com/@minosh00)
   
