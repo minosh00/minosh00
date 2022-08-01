@@ -54,9 +54,6 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
   <summary>💻 GitHub Wakatime Stats</summary>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@minosh00&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
-  
-  [_Wakatime stats since Feb-17-2021_](https://wakatime.com/@minosh00)
   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
