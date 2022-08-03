@@ -78,4 +78,5 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
 </a>
 
 
-![snake gif](https://github.com/minosh00/minosh00/blob/output/github-contribution-grid-snake.gif)
+  <img alt="" src="https://github.com/minosh00/minosh00/blob/output/github-contribution-grid-snake.svg">
+
