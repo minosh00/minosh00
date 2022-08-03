@@ -76,3 +76,6 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
 <a href="https://www.instagram.com/k_d_m_i/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" minosh's Instagram Profile">
 </a>
+
+
+![snake gif](https://github.com/minosh00/minosh00/blob/output/github-contribution-grid-snake.gif)
