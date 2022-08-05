@@ -41,7 +41,7 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/minosh00/github-readme-stats">
-      <img alt="minosh00's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+      <img alt="minosh00's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=minosh00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>  
   <a href="https://github.com/minosh00/github-readme-stats">
     <img alt="minosh00's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minosh00&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
