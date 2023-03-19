@@ -9,7 +9,7 @@
 
 ### About Me! 🤩 &nbsp;
 
-I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Software Engineering***_ 🎓 from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">Sri Lanka Institute of Information Technology</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
+I'm a 4th year student  _***BSc(Hons) Information Technology Specialising in Software Engineering***_ 🎓 from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">Sri Lanka Institute of Information Technology</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
 
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/minosh00/minosh00/blob/main/images/daftpunktocat-guy.gif" />
 
